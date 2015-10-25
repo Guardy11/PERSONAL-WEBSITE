@@ -1,0 +1,41 @@
+h1 {
+background-image: url("recycled_texture_background_by_sandeep_m-d6aeau9.jpg");
+	text-align: center;
+	font-style : italic;
+	color : yellow;
+	font-size:75;
+	margin-left: 150;
+	margin-right:150;
+}
+p {
+	font-size: 25;
+	text-align: center;
+	font-family: serif;
+	color : yellow;
+	margin-left: 150;
+    margin-right:150;
+	   background-image : url("recycled_texture_background_by_sandeep_m-d6aeau9.jpg");
+}
+body{
+   background-image : url("images.jpg");
+   
+}
+h5{
+	font-family:bold;
+	color: white;
+	text-align:center;
+}
+table{
+background-color:yellowgreen;
+
+}
+ul {
+	background-image: url("recycled_texture_background_by_sandeep_m-d6aeau9.jpg");
+	color:red;
+}
+table{
+background-color:lightblue;
+margin-left: 150;
+margin-right:150;
+
+}

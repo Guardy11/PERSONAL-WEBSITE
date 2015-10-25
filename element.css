@@ -1,0 +1,12 @@
+body {
+	background-image = url ("BSIS.jpg");
+	background-repeat = no-repeat;
+	background-position = center;
+		
+	
+	}
+p {
+	color : blue;
+	background-color : yellow;
+	font-style : italic;
+}
